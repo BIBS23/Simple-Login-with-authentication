@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79684825941",
+    "project_id": "sportstalentz",
+    "storage_bucket": "sportstalentz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79684825941:android:4aa3835e8740c7303c75dc",
+        "android_client_info": {
+          "package_name": "com.example.soccestalentz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79684825941-kd1g2fksku8bnbjagpv3vftof7u6k8nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxzITXJvrXE_FquQaDdr7ZCwq3aF3ALk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79684825941-kd1g2fksku8bnbjagpv3vftof7u6k8nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
